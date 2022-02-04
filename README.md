@@ -1,6 +1,6 @@
 <div>
   <a href="https://github.com/alxczo">
-  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=venuedesetoiles&show_icons=true&theme=buefy&include_all_commits=true&count_private=true"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=alxczo&show_icons=true&theme=buefy&include_all_commits=true&count_private=true"/>
   <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alxczo&layout=compact&langs_count=7&theme=buefy"/>
 </div>
 
